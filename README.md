@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaaif Ahmed Khan
-- 👀 I’m interested in Computer Science and Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate in any website related projects
+- 👀 I’m interested in Computer Science and AI Engineering
+- 🌱 I’m currently learning Machine Learning and LLMs
+- 💞️ I’m looking to collaborate in any related projects
 - 📫 Contact me at kaaifahmedkhan@gmail.com
 
 <!---
